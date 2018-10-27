@@ -15,3 +15,5 @@ Project Goals:
 - Make modding focus/idea icons a simple affair involving copy/pasting existing assets
 
 Please use responsibly.
+
+- Pacifica
